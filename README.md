@@ -25,7 +25,6 @@
   <a href="https://t.me/GustaOfficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavo.sotero13@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-### Hi there 👋
 
 <!--
 **gustavo-sotero/gustavo-sotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
