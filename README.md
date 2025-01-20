@@ -1,35 +1,50 @@
-### 👋 Oi eu sou o Gustavo!
+# Olá! Eu sou o Gustavo Sotero 
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-sotero&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-sotero&layout=compact&langs_count=5&theme=dark"/>
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo-sotero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-sotero)
+[![Email](https://img.shields.io/badge/Email-contato%40gustavo-sotero.dev-red?style=flat-square&logo=gmail)](mailto:contato@gustavo-sotero.dev)
 
-<div>
-  <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Logo JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- <img align="center" alt="Logo VueJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Logo PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
- <img align="center" alt="Logo NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Logo TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  
-   <img align="center" alt="Logo Adonis" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-  
-</div>
+Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizado. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e gosto de criar soluções simples, funcionais e eficientes. 
 
+---
 
-  ##
- 
-<div> 
-  <a href="https://t.me/GustaOfficial" target="_blank"><img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavo.sotero13@gmail.com"><img src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+## 💻 Tecnologias e Ferramentas
 
-<!--
-**gustavo-sotero/gustavo-sotero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend:
+- Node.js (Koa, Express, Fastify) 
+- Bun
+- TypeScript
+- PHP (Laravel, Padrão MVC)
+- Java (Spring Boot)
+- Banco de Dados: PostgreSQL, SQLite, MySQL, MongoDB
+- Prisma ORM
 
-Here are some ideas to get you started:
+### Frontend:
+- Next.js
+- React.js
+- Tailwind CSS
+- ShadCN/UI
 
+### DevOps & Outros:
+- Docker
+- Dokploy
 
--->
+---
+
+## 🎨 Projetos em Destaque
+
+- **[Notz-SMS](https://t.me/NotzSMSBot)**: Plataforma de recebimento de SMS anonimamente via Telegram.
+
+---
+
+## 💡 O que estou estudando atualmente?
+- DevOps
+- AutoHospedagem de serviços
+
+---
+
+## 🏋️ Sobre mim
+Quando não estou codando, ouvir musicas, meus generos favoritos são **Rap e Trap** e tambem gosto de jogar com meus amigos.
+
+---
+
+Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios!
