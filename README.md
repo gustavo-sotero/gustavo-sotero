@@ -1,7 +1,7 @@
 # Olá! Eu sou o Gustavo Sotero 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo-sotero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-sotero)
-[![Email](https://img.shields.io/badge/Email-contato%40gustavo-sotero.dev-red?style=flat-square&logo=gmail)](mailto:contato@gustavo-sotero.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--sotero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-sotero)
+[![Email](https://img.shields.io/badge/Email-contato%40gustavo--sotero.dev-red?style=flat-square&logo=gmail)](mailto:contato@gustavo-sotero.dev)
 
 Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizado. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e gosto de criar soluções simples, funcionais e eficientes. 
 
