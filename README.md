@@ -10,13 +10,12 @@ Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novo
 ## 💻 Tecnologias e Ferramentas
 
 ### Backend:
-- Node.js (Koa, Express, Fastify) 
-- Bun
-- TypeScript
-- PHP (Laravel, Padrão MVC)
+- Node.js & Bun
+- TypeScript & JavaScript
+- Prisma ORM
+- PHP (Laravel)
 - Java (Spring Boot)
 - Banco de Dados: PostgreSQL, SQLite, MySQL, MongoDB
-- Prisma ORM
 
 ### Frontend:
 - Next.js
@@ -26,6 +25,7 @@ Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novo
 
 ### DevOps & Outros:
 - Docker
+- Docker Compose
 - Dokploy
 
 ---
@@ -33,6 +33,7 @@ Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novo
 ## 🎨 Projetos em Destaque
 
 - **[Notz-SMS](https://t.me/NotzSMSBot)**: Plataforma de recebimento de SMS anonimamente via Telegram.
+- **[AnonShare](https://anonshare.dev)**: Plataforma de compartilhamento anônimo de arquivos.
 
 ---
 
