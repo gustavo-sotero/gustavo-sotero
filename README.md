@@ -1,51 +1,41 @@
-# Olá! Eu sou o Gustavo Sotero 
+<!-- Profile README - Gustavo Sotero -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--sotero-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gustavo-sotero)
-[![Email](https://img.shields.io/badge/Email-contato%40gustavo--sotero.dev-red?style=flat-square&logo=gmail)](mailto:contato@gustavo-sotero.dev)
+# Olá, eu sou Gustavo Sotero 👋
 
-Sou desenvolvedor fullstack, apaixonado por tecnologia e sempre em busca de novos desafios e aprendizado. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas**, e gosto de criar soluções simples, funcionais e eficientes. 
-
----
-
-## 💻 Tecnologias e Ferramentas
-
-### Backend:
-- Node.js & Bun
-- TypeScript & JavaScript
-- Prisma ORM
-- PHP (Laravel)
-- Java (Spring Boot)
-- Banco de Dados: PostgreSQL, SQLite, MySQL, MongoDB
-
-### Frontend:
-- Next.js
-- React.js
-- Tailwind CSS
-- ShadCN/UI
-
-### DevOps & Outros:
-- Docker
-- Docker Compose
-- Dokploy
+<p align="left">
+  Desenvolvedor Full-Stack focado em back-end. Apaixonado por criar soluções simples, eficientes e seguras.
+</p>
 
 ---
 
-## 🎨 Projetos em Destaque
+## 🛠️ Habilidades (Skills)
 
-- **[Notz-SMS](https://t.me/NotzSMSBot)**: Plataforma de recebimento de SMS anonimamente via Telegram.
-- **[AnonShare](https://anonshare.dev)**: Plataforma de compartilhamento anônimo de arquivos.
-
----
-
-## 💡 O que estou estudando atualmente?
-- DevOps
-- AutoHospedagem de serviços
+- **Back-End:** Node.js, JavaScript, TypeScript, Python, PHP, Java, C#
+- **Frameworks:** Hono, NestJS, Django, Laravel, Spring, .NET
+- **Frontend:** HTML5, CSS3, JavsScript, React, Vue.js, Tailwind CSS, Next.JS
+- **Bancos de Dados:** PostgreSQL, MySQL, MongoDB, Redis
+- **Ferramentas, DevOps e Outros:** Git, GitHub, Docker, Docker Compose, Google Cloud, 
 
 ---
 
-## 🏋️ Sobre mim
-Quando não estou codando, ouvir musicas, meus generos favoritos são **Rap e Trap** e tambem gosto de jogar com meus amigos.
+## 🚀 Projetos em Destaque
+
+| Projeto       | Descrição                                                              | Tecnologias Usadas          |
+|---------------|------------------------------------------------------------------------|-----------------------------|
+| **[Notz - SMS](https://t.me/NotzSMSBot)** | Bot para gerar numeros virtuais temporarios para recebimento de SMS. | `PHP`, `PostgreSQL`, `Node.JS`, `JavaScript`, `TypeScript`, `Git`, `MongoDB`, `React`, `Next.JS`, `Docker` e `Docker Compose` |
+| **[AnonShare](https://anonshare.dev) ([Repo](https://github.com/gustavo-sotero/anonshare.dev))** | Plataforma de compartilhamento anônimo de arquivos. | `Node.JS`, `TypeScript`, `Hono`, `React`, `Next.JS`,  `PostgreSQL`, `Redis`, `Git`, `Docker` e `Docker Compose`     |
+
+> *Detalhes completos de cada projeto nos repositórios correspondentes.*
 
 ---
 
-Seja bem-vindo ao meu perfil e sinta-se à vontade para explorar meus repositórios!
+## 📫 Contato
+
+- **LinkedIn:** [linkedin.com/in/gustavo-sotero](https://www.linkedin.com/in/gustavo-sotero)
+- **E-mail:** contato@gustavo-sotero.dev
+
+---
+
+<p align="center">
+  <em>“Código limpo, propósito claro.”</em>
+</p>
