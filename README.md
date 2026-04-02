@@ -23,7 +23,7 @@
 | Projeto       | Descrição                                                              | Tecnologias Usadas          |
 |---------------|------------------------------------------------------------------------|-----------------------------|
 | **[Notz - SMS](https://t.me/NotzSMSBot)** | Bot para gerar numeros virtuais temporarios para recebimento de SMS. | `PHP`, `PostgreSQL`, `Node.JS`, `JavaScript`, `TypeScript`, `Git`, `MongoDB`, `React`, `Next.JS`, `Docker` e `Docker Compose` |
-| **[AnonShare](https://anonshare.dev) ([Repo](https://github.com/gustavo-sotero/anonshare.dev))** | Plataforma de compartilhamento anônimo de arquivos. | `Node.JS`, `TypeScript`, `Hono`, `React`, `Next.JS`,  `PostgreSQL`, `Redis`, `Git`, `Docker` e `Docker Compose`     |
+| **[Portfolio pessoal](https://gustavo-sotero.dev/) ([Repo](https://github.com/gustavo-sotero/gustavo-sotero.dev/))** | Portfólio técnico backend-centric com API REST. | `Bun`, `TypeScript`, `Hono`, `React`, `Next.JS`,  `PostgreSQL`, `Redis`, `Git`, `Docker` e `Docker Compose`     |
 
 > *Detalhes completos de cada projeto nos repositórios correspondentes.*
 
