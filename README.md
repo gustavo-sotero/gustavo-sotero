@@ -19,6 +19,9 @@ Gosto de trabalhar com APIs, integrações, automações, filas, cache e arquite
 - **[Portfólio Pessoal](https://gustavo-sotero.dev/)** · **[Repositório](https://github.com/gustavo-sotero/gustavo-sotero.dev)**  
   Projeto backend-centric com API REST, SSR, filas, cache e jobs em background.
 
+- **[URLfy](https://urlfy.cc/)** · **[Repositório](https://github.com/gustavo-sotero/urlfy.cc/)**  
+  Encurtador de URLs self-hosted de alta performance — monorepo full stack com Bun, Next.js 16, ElysiaJS e Redis. Arquitetura event-driven com redirect hot path em < 30 ms, analytics via Redis Streams, observabilidade OpenTelemetry e compliance LGPD/GDPR.
+
 ## 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/gustavo-sotero](https://www.linkedin.com/in/gustavo-sotero)
