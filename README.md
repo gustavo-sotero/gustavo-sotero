@@ -22,6 +22,9 @@ Gosto de trabalhar com APIs, integrações, automações, filas, cache e arquite
 - **[URLfy](https://urlfy.cc/)** · **[Repositório](https://github.com/gustavo-sotero/urlfy.cc/)**  
   Encurtador de URLs self-hosted de alta performance — monorepo full stack com Bun, Next.js 16, ElysiaJS e Redis. Arquitetura event-driven com redirect hot path em < 30 ms, analytics via Redis Streams, observabilidade OpenTelemetry e compliance LGPD/GDPR.
 
+- **[anonshare.dev](https://anonshare.dev/)** · **[Repositório](https://github.com/gustavo-sotero/anonshare.dev)**  
+  Plataforma de compartilhamento anônimo de arquivos — monorepo TypeScript com Bun, Hono, TanStack Start e BullMQ. Upload presigned direto para S3, download único com compare-and-set SQL, reconciliador com 7 passes independentes e painel admin protegido por GitHub OAuth.
+
 ## 📫 Contato
 
 - **LinkedIn:** [linkedin.com/in/gustavo-sotero](https://www.linkedin.com/in/gustavo-sotero)
